@@ -23,8 +23,15 @@
 
 ## Setup
 
-1. [ ] Clone the repo, `git clone https://github.com/creators-organization/workshop-proj-1.git`
+1. [ ] Clone the repo and switch to the dev branch, `git clone -b dev https://github.com/creators-organization/workshop-proj-1.git`
 2. [ ] Add your name to [CONTRIBUTORS.md]
 3. [ ] Using Godot's menu, import the Project
 
 You are now all set!
+
+## Notes
+
+1. When working on simple tasks related to documentation feel free to work out of the `main` branch
+2. If you are touching code, switch to the `dev` branch first
+3. If you are working on a multi-step task (or if you dont have push access), create a `dev/feature-name` branch first, and the pull request merge into `dev`, we will try to go through pull requests together as a team
+
