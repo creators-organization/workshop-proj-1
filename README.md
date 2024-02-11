@@ -1,5 +1,13 @@
 # Workshop Proj 1
 
+- [Workshop Proj 1](#workshop-proj-1)
+  - [I'm new what do I do?](#im-new-what-do-i-do)
+  - [Overview](#overview)
+  - [Structure](#structure)
+  - [Contributors and Contributions](#contributors-and-contributions)
+  - [Licenses](#licenses)
+
+
 ## I'm new what do I do?
 
 Please go to [./CONTRIBUTING.md](./CONTRIBUTING.md)
@@ -22,5 +30,17 @@ For more details, please visit the [GitBook](https://app.gitbook.com/invite/13W9
 
 ## Structure
 
-The folder structure follows function followed by type. As an example, the script for the user inventory may sit in `res://actor/player/inventory.gd`.
+The folder structure follows function followed by type, i.e. `res://function/type/file.gd` . As an example, the script for the user inventory may sit in `res://actor/player/inventory.gd`.
 
+## Contributors and Contributions
+
+Our [Contributions](./CONTRIBUTING) page has instructions for how best to addyour work to this project, please review it before making pull requests.\
+Visit our [Contributors](./License/CONTRIBUTORS) page to add your name and view everyone who contributed to this project!
+
+## Licenses
+
+[tiny-battle](./Licenses/License_tiny-battle.txt)  
+[ui-pack-rpg-expansion](./Licenses/License_ui-pack-rpg-expansion.txt)  
+[top-down-tanks-redux](./Licenses/License_kenny_top-down-tanks-redux.txt)  
+[tower-defense-top-down](./Licenses/License_kenny_tower-defense-top-down.txt)  
+[DawnLike](./Licenses/README_License_DawnLike.txt) (Find the Platino!)  

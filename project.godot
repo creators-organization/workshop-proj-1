@@ -11,5 +11,12 @@ config_version=5
 [application]
 
 config/name="creators-club-workshop-proj-1"
+run/main_scene="res://SceneHandler.tscn"
 config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/stretch/mode="canvas_items"
