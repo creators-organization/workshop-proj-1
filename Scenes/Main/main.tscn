@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://b1driuf53mclf"]
 
-[ext_resource type="TileSet" uid="uid://twbpd75c00l5" path="res://tilemap-resource.tres" id="1_oh7ew"]
+[ext_resource type="TileSet" uid="uid://twbpd75c00l5" path="res://Resources/Tilesets/tilemap-resource.tres" id="1_oh7ew"]
 
 [node name="main" type="Node"]
 
